@@ -1,0 +1,34 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+.env/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.out
+
+# Data files
+*.csv
+*.tsv
+*.h5
+*.hdf5
+*.jsonl
+
+# Model files
+*.pth
+*.pt
+*.ckpt
+
+# IDE/editor specific files
+.idea/
+.vscode/
+.DS_Store
+
